@@ -1,0 +1,9 @@
+﻿DetourAttach
+DetourDetach
+DetourRestoreAfterWith
+DetourTransactionBegin
+DetourTransactionCommit
+DetourUpdateThread
+
+GetCurrentThread
+GetModuleHandle

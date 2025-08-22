@@ -5,6 +5,8 @@ VisualStudioVersion = 17.14.36408.4
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "FileSystemFromApp", "FileSystemFromApp\FileSystemFromApp.csproj", "{7A21CE58-91A9-48B0-A49C-EC15475097B1}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "FileSystemFromApp.Hook", "FileSystemFromApp.Hook\FileSystemFromApp.Hook.csproj", "{8B93868E-9E87-40B8-8B3F-F9FE1D1E2C7F}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -15,6 +17,10 @@ Global
 		{7A21CE58-91A9-48B0-A49C-EC15475097B1}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{7A21CE58-91A9-48B0-A49C-EC15475097B1}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{7A21CE58-91A9-48B0-A49C-EC15475097B1}.Release|Any CPU.Build.0 = Release|Any CPU
+		{8B93868E-9E87-40B8-8B3F-F9FE1D1E2C7F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8B93868E-9E87-40B8-8B3F-F9FE1D1E2C7F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8B93868E-9E87-40B8-8B3F-F9FE1D1E2C7F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8B93868E-9E87-40B8-8B3F-F9FE1D1E2C7F}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
